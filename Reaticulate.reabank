@@ -1,0 +1,1235 @@
+//! g="Spitfire/BBC Symphonic Orchestra/Strings" n="BBC Violins 1 Leader"
+//! id=3824c34b-7e42-5543-94ba-1fd71dccc4d0
+Bank * * BBC Violins 1 Leader
+
+//! c=legato i=legato o=note:0
+20 legato
+//! c=long i=note-whole o=note:1
+1 long
+//! c=long-light i=con-sord o=note:2
+7 long cs
+//! c=long-light i=flautando o=note:3
+8 long flautando
+//! c=short i=spiccato o=note:4
+42 spiccato
+//! c=short i=staccato o=note:5
+40 staccato
+//! c=short-light i=pizz o=note:6
+56 pizzicato
+//! c=short-light i=col-legno o=note:7
+58 col legno
+//! c=long-dark i=tremolo o=note:8
+11 tremolo
+//! c=long i=trill-maj2 o=note:9
+71 trill M2
+//! c=long i=trill-min2 o=note:10
+70 trill m2
+//! c=long-light i=sul-tasto o=note:11
+17 long sul tasto
+//! c=long-light i=harmonics o=note:12
+10 long harmonics
+//! c=short-light i=staccato-harmonics o=note:13
+61 short harmonics
+//! c=short-dark i=pizz-bartok o=note:14
+57 bartok pizz
+//! c=long i=marcato o=note:15
+9 marcato
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Strings" n="BBC Violins 1"
+//! id=1aa31331-3847-3f40-ad29-ebaf8cd8e0a3
+Bank * * BBC Violins 1
+
+//! c=legato i=legato o=note:0
+20 legato
+//! c=long i=note-whole o=note:1
+1 long
+//! c=long-light i=con-sord o=note:2
+7 long cs
+//! c=long-light i=flautando o=note:3
+8 long flautando
+//! c=short i=spiccato o=note:4
+42 spiccato
+//! c=short i=staccato o=note:5
+40 staccato
+//! c=short-light i=pizz o=note:6
+56 pizzicato
+//! c=short-light i=col-legno o=note:7
+58 col legno
+//! c=long-dark i=tremolo o=note:8
+11 tremolo
+//! c=long i=trill-maj2 o=note:9
+71 trill M2
+//! c=long i=trill-min2 o=note:10
+70 trill m2
+//! c=long-light i=sul-tasto o=note:11
+17 long sul tasto
+//! c=long-light i=harmonics o=note:12
+10 long harmonics
+//! c=short-light i=staccato-harmonics o=note:13
+61 short harmonics
+//! c=short-dark i=pizz-bartok o=note:14
+57 bartok pizz
+//! c=long i=marcato o=note:15
+9 long marcato attack
+//! c=long-dark i=tremolo-sul-pont o=note:16
+13 tremolo sul pont
+//! c=long-light i=tremolo-con-sord o=note:17
+12 tremolo cs
+//! c=long-dark i=sul-pont o=note:18
+18 long sul pont
+//! c=short-light i=staccato-con-sord o=note:19
+47 spiccato cs
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Strings" n="BBC Cellos"
+//! id=3390132d-047a-da44-a46c-564dcd8a8eb8
+Bank * * BBC Cellos
+
+//! c=legato i=legato o=note:0
+20 legato
+//! c=long i=note-whole o=note:1
+1 long
+//! c=long-light i=con-sord o=note:2
+7 long cs
+//! c=long-light i=flautando o=note:3
+8 long flautando
+//! c=short i=spiccato o=note:4
+42 spiccato
+//! c=short i=staccato o=note:5
+40 staccato
+//! c=short-light i=pizz o=note:6
+56 pizzicato
+//! c=short-light i=col-legno o=note:7
+58 col legno
+//! c=long-dark i=tremolo o=note:8
+11 tremolo
+//! c=long i=trill-maj2 o=note:9
+71 trill M2
+//! c=long i=trill-min2 o=note:10
+70 trill m2
+//! c=long-light i=sul-tasto o=note:11
+17 long sul tasto
+//! c=long-light i=harmonics o=note:12
+10 long harmonics
+//! c=short-light i=staccato-harmonics o=note:13
+61 short harmonics
+//! c=short-dark i=pizz-bartok o=note:14
+57 bartok pizz
+//! c=long i=marcato o=note:15
+9 long marcato attack
+//! c=long-dark i=tremolo-sul-pont o=note:16
+13 tremolo sul pont
+//! c=long-light i=tremolo-con-sord o=note:17
+12 tremolo cs
+//! c=long-dark i=sul-pont o=note:18
+18 long sul pont
+//! c=short-light i=staccato-con-sord o=note:19
+47 spiccato cs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Strings" n="BBC Basses"
+//! id=540fc278-6bf1-3b46-bc11-214c31526b63
+
+Bank * * BBC Basses
+//! c=legato i=legato o=note:12
+20 legato
+//! c=long i=note-whole o=note:13
+1 long
+//! c=long-light i=con-sord o=note:14
+7 long cs
+//! c=long-light i=flautando o=note:15
+8 long flautando
+//! c=short i=spiccato o=note:16
+42 spiccato
+//! c=short i=staccato o=note:17
+40 staccato
+//! c=short-light i=pizz o=note:18
+56 pizzicato
+//! c=short-light i=col-legno o=note:19
+58 col legno
+//! c=long-dark i=tremolo o=note:20
+11 tremolo
+//! c=long i=trill-maj2 o=note:21
+71 trill M2
+//! c=long i=trill-min2 o=note:22
+70 trill m2
+//! c=long-light i=sul-tasto o=note:23
+17 long sul tasto
+//! c=long-light i=harmonics o=note:24
+10 long harmonics
+//! c=short-light i=staccato-harmonics o=note:25
+61 short harmonics
+//! c=short-dark i=pizz-bartok o=note:26
+57 bartok pizz
+//! c=long i=marcato o=note:27
+9 long marcato attack
+//! c=long-dark i=tremolo-sul-pont o=note:28
+13 tremolo sul pont
+//! c=long-light i=tremolo-con-sord o=note:29
+12 tremolo cs
+//! c=long-dark i=sul-pont o=note:30
+18 long sul pont
+//! c=short-light i=staccato-con-sord o=note:31
+47 spiccato cs
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Flute"
+//! id=c0b3b1d1-bca2-48c0-ae02-0b6ad53d78d9
+Bank * * BBC - Flute
+
+//! c=legato i=legato o=note:0
+20 legato
+//! c=long i=note-whole o=note:1
+1 long
+//! c=long i=trill-maj2 o=note:2
+71 trill M2
+//! c=long i=trill-min2 o=note:3
+70 trill m2
+//! c=short i=spiccato o=note:4
+41 staccatissimo
+//! c=short i=tenuto-eighth o=note:5
+50 tenuto
+//! c=short i=marcato-quarter o=note:6
+52 marcato
+//! c=long-dark i=tremolo o=note:7
+11 flutter
+//! c=long i=multitongued o=note:8
+75 multi-tongued
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Flutes a3"
+//! clone="Spitfire/BBC Symphonic Orchestra/Woodwinds/BBC Flute"
+//! id=8775b162-89f0-49c4-a8da-bb3d42b2eb2e
+Bank * * BBC - Flutes a3
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Piccolo Flute"
+//! id=09b54ed9-1235-4d6c-af99-d0178df22896
+Bank * * BBC - Flute
+
+//! c=legato i=legato o=note:0
+20 legato
+//! c=long i=note-whole o=note:1
+1 long
+//! c=long i=trill-maj2 o=note:2
+71 trill M2
+//! c=long i=trill-min2 o=note:3
+70 trill m2
+//! c=short i=spiccato o=note:4
+41 staccatissimo
+//! c=short i=tenuto-eighth o=note:5
+50 tenuto
+//! c=short i=marcato-quarter o=note:6
+52 marcato
+//! c=long-dark i=tremolo o=note:7
+11 flutter
+//! c=long i=multitongued o=note:8
+75 multitongued
+//! c=short-dark i=rip o=note:9
+100 rips
+//! c=short-dark i=fall o=note:10
+101 falls
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Oboe"
+//! id=fceed6e0-417e-4a4c-90a1-90fc88bd27d3
+Bank * * BBC - Oboe
+
+//! c=legato i=legato o=note:0
+20 legato
+//! c=long i=note-whole o=note:1
+1 long
+//! c=long i=trill-maj2 o=note:2
+71 trill M2
+//! c=long i=trill-min2 o=note:3
+70 trill m2
+//! c=short i=spiccato o=note:4
+41 staccatissimo
+//! c=short i=tenuto-eighth o=note:5
+50 tenuto
+//! c=short i=marcato-quarter o=note:6
+52 marcato
+//! c=long i=multitongued o=note:7
+75 multitongued
+
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Oboes a3"
+//! clone="Spitfire/BBC Symphonic Orchestra/Woodwinds/BBC Oboe"
+//! id=f24329cc-d197-4f6f-9287-cca027b8a4be
+Bank * * BBC - Oboes a3
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Clarinet"
+//! clone="Spitfire/BBC Symphonic Orchestra/Woodwinds/BBC Flute"
+//! id=c8851746-c2d9-4dcc-8fb3-4f6a0e32042c
+Bank * * BBC - Clarinet
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Bassoon"
+//! id=5261bbe4-ae35-4a75-8b23-4f09479df1a0
+Bank * * BBC - Bassoon
+
+//! c=legato i=legato o=note:0
+20 legato
+//! c=long i=note-whole o=note:1
+1 long
+//! c=long i=trill-maj2 o=note:2
+71 trill M2
+//! c=long i=trill-min2 o=note:3
+70 trill m2
+//! c=short i=spiccato o=note:4
+41 staccatissimo
+//! c=short i=tenuto-eighth o=note:5
+50 tenuto
+//! c=short i=marcato-quarter o=note:6
+52 marcato
+//! c=long-dark i=tremolo o=note:7
+11 flutter
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Bassoon a3"
+//! clone="Spitfire/BBC Symphonic Orchestra/Woodwinds/BBC Bassoon"
+//! id=4c9048f5-8568-4ab6-b4bb-db4d2a0fe624
+Bank * * BBC - Bassoon a3
+
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Percussion" n="BBC Timpani"
+//! id=291e1eb1-c5b8-41fe-903b-f8d2fb200bca
+Bank * * BBC - Timpani
+
+//! c=short i=staccato o=note:0
+100 hits
+//! c=long i=note-whole o=note:1
+101 rolls
+//! c=short i=staccato o=note:2
+102 hits soft
+//! c=long i=note-whole o=note:3
+103 rolls soft
+//! c=short i=staccato o=note:4
+104 hits hotrods
+//! c=long i=note-whole o=note:5
+105 long rolls hotrods
+//! c=short i=staccato o=note:6
+106 hits damped
+//! c=short i=staccato o=note:7
+107 hits super damped
+//! c=short i=staccato o=note:8
+108 hotrods hits damped
+//! c=short i=staccato o=note:9
+109 hits damped soft
+
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Percussion" n="BBC Harp"
+//! id=3f5723a0-75d1-436b-9681-330389dfb94e
+Bank * * BBC - Harp
+
+//! c=long i=note-whole o=note:0
+1 sustained
+//! c=short i=staccato o=note:1
+101 damped
+//! c=short i=staccato o=note:2
+102 damped medium
+//! c=long i=note-whole o=note:3
+103 bisbigliando trem
+//! c=fx i=fx o=note:4
+104 gliss fx
+
+//----------------------------------------------------------------------------
+//! g="Spitfire/BBC Symphonic Orchestra/Woodwinds" n="BBC Clarinets a3"
+//! id=caa9ceb4-d022-2148-a211-14a2c599d04d
+Bank * * BBC - Clarinets a3
+
+//! c=legato i=legato o=note:0
+20 legato
+//! c=long i=note-whole o=note:1
+1 sustain
+//! c=long i=trill-min2 o=note:2
+70 trill m2
+//! c=long i=trill-maj2 o=note:3
+71 trill M2
+//! c=short i=spiccato o=note:4
+41 staccatissimo
+//! c=short i=tenuto-quarter o=note:5
+50 tenuto
+//! c=long i=accented-quarter o=note:6
+9 marcato
+//! c=long-dark i=fx o=note:7
+11 flz.
+//! c=long i=multitongued o=note:8
+75 multitongued
+
+
+
+//! g="Cinesamples/Cinebrass" n="Trumpets a6"
+//! id=0ad41e62-aeab-5148-9600-b90697479f78
+Bank * * Trumpets a6
+//! c=legato i=legato o=note:24
+20 legato
+//! c=long i=note-whole o=note:25
+1 sustain
+//! c=short i=tenuto-quarter o=note:26
+50 tenuto
+//! c=short i=staccato o=note:27
+40 staccato
+//! c=short i=spiccato o=note:28
+41 Stacatissimo
+//! c=short i=fx o=note:29
+90 Crescendo Cluster
+//! c=long i=fx o=note:30
+91 Staccato Cluster
+//! c=short i=rip o=note:31
+100 Rip
+
+//! g="Cinesamples/Cinebrass" n="Horns a2"
+//! id=4a26d660-8dcf-d042-87eb-2dfb0156c702
+Bank * * Horns a2
+//! c=legato i=legato o=note:84
+20 legato
+//! c=long i=note-whole o=note:85
+1 sustain
+//! c=short i=spiccato o=note:86
+41 Stacatissimo
+
+
+//! g="Cinesamples/Cinebrass" n="Trombone Solo"
+//! id=bf9cbcdd-ab08-ae41-911e-7111cf4c26a6
+Bank * * Trombone Solo
+//! c=sustain i=legato o=note:84
+1 sustain
+//! c=long i=note-whole o=note:85
+90 growl
+//! c=short i=tenuto-quarter o=note:86
+50 tenuto
+//! c=short i=staccato o=note:87
+40 staccato
+//! c=short i=spiccato o=note:88
+41 Stacatissimo
+
+//! g="Cinesamples/Cinebrass" n="Trombones a6"
+//! id=81896bad-8838-5b45-93b4-26f083b11c5b
+Bank * * Trombones a6
+//! c=legato i=legato o=note:84
+20 legato
+//! c=long i=note-whole o=note:85
+1 sustain
+//! c=short i=tenuto-quarter o=note:86
+50 tenuto
+//! c=short i=staccato o=note:87
+40 staccato
+//! c=short i=spiccato o=note:88
+41 Stacatissimo
+
+//! g="Cinesamples/Cinebrass" n="Tuba Solo"
+//! id=317b888e-dcff-2646-8aa8-845e105b588e
+Bank * * Tuba Solo
+//! c=legato i=legato o=note:84
+20 legato
+//! c=long i=note-whole o=note:85
+1 sustain
+//! c=short i=tenuto-quarter o=note:86
+50 tenuto
+//! c=short i=staccato o=note:87
+40 staccato
+//! c=short i=spiccato o=note:88
+41 Stacatissimo
+
+//! g="Cinesamples/Cinebrass" n="Horns a6"
+//! id=20983b46-8e63-f942-adaa-45729be1a40d
+Bank * * Horns a6
+//! c=legato i=legato o=note:84
+20 legato
+//! c=long i=note-whole o=note:85
+1 sustain
+//! c=short i=tenuto-quarter o=note:86
+50 tenuto
+//! c=short i=staccato o=note:87
+40 staccato
+//! c=short i=spiccato o=note:88
+41 Stacatissimo
+//! c=short i=rip o=note:89
+100 Rip
+
+//! g="Cinesamples/Cinebrass" n="Horns a4"
+//! id=3fc962bf-ac8e-8d48-ab4e-8a67b8db346f
+Bank * * Horns a4
+//! c=long i=note-whole o=note:96
+1 sustain
+//! c=short i=con-sordino o=note:97
+81 mute
+//! c=short i=fx o=note:98
+90 growl
+//! c=short i=spiccato o=note:99
+41 Stacatissimo
+//! c=short i=rip o=note:100
+100 Rip
+
+//! g="Cinesamples/Cinebrass" n="Low Brass"
+//! id=c0e38eda-929a-454f-95f5-861b32e436f5
+Bank * * Low Brass
+//! c=long i=note-whole o=note:84
+1 sustain
+//! c=short i=tenuto-quarter o=note:85
+50 tenuto
+//! c=short i=staccato o=note:86
+40 staccato
+//! c=short i=spiccato o=note:87
+41 Stacatissimo
+
+
+//! g="Cinesamples/Cinebrass" n="Cimbasso"
+//! id=b3b7f499-2470-7e41-8147-7a4dbc097e80
+Bank * * Cimbasso
+//! c=long i=note-whole o=note:84
+1 sustain
+//! c=short i=staccato o=note:85
+40 staccato
+
+//! g="Cinesamples/Cinebrass" n="Trumpet Solo"
+//! id=e641edbe-47f7-8c4b-a2e9-720829b65c30
+Bank * * Trumpet Solo
+//! c=legato i=legato o=note:24
+20 legato
+//! c=long i=note-whole o=note:25
+1 sustain
+
+//! g="Cinesamples/Cinebrass" n="Horn Solo"
+//! id=898b0810-f086-a241-9a99-6633e48cd53e
+Bank * * Horn Solo
+//! c=legato i=legato o=note:24
+20 legato
+//! c=long i=note-whole o=note:25
+1 sustain
+
+
+//! g="Cinesamples/CineWinds" n="Piccolo"
+//! id=77eb9fad-934a-ae4d-ac4b-85439de480c7
+Bank * * CWC - Piccolo Flute
+
+//! c=legato i=legato o=note:24
+21 legato non-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=long i=note-whole o=note:26
+2 sustain non-vib.
+//! c=long i=note-whole o=note:27
+1 sustain
+//! c=short i=tenuto-eighth o=note:28
+50 tenuto
+//! c=short i=staccato o=note:29
+40 staccato
+//! c=short i=spiccato o=note:30
+41 staccatissimo
+//! c=long i=trill-min2 o=note:31
+70 trill m2
+//! c=long i=trill-maj2 o=note:32
+71 trill M2
+
+//! g="Cinesamples/CineWinds" n="Flute"
+//! id=bae0b6b4-a96e-4a46-bc78-af7e85ad1f3f
+Bank * * Flute
+
+//! c=legato i=legato o=note:24
+21 legato non-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=long i=note-whole o=note:26
+2 sustain non-vib.
+//! c=long i=note-whole o=note:27
+1 sustain
+//! c=short i=tenuto-eighth o=note:28
+50 tenuto
+//! c=short i=staccato o=note:29
+40 staccato
+//! c=short i=spiccato o=note:30
+41 staccatissimo
+//! c=long i=trill-min2 o=note:31
+70 trill m2
+//! c=long i=trill-maj2 o=note:32
+71 trill M2
+
+//! g="Cinesamples/CineWinds" n="Oboe 1"
+//! id=3bda5be0-f13a-b741-b86e-5bb434c0b088
+Bank * * Oboe 1
+
+//! c=legato i=legato o=note:24
+21 legato non-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=long i=note-whole o=note:26
+2 sustain non-vib.
+//! c=long i=note-whole o=note:27
+1 sustain
+//! c=short i=tenuto-eighth o=note:28
+50 tenuto
+//! c=short i=staccato o=note:29
+40 staccato
+//! c=short i=spiccato o=note:30
+41 staccatissimo
+//! c=long i=trill-min2 o=note:31
+70 trill m2
+//! c=long i=trill-maj2 o=note:32
+71 trill M2
+
+//! g="Cinesamples/CineWinds" n="Oboe 2"
+//! id=7797e4c2-9caf-f148-9aad-86dc0ade4261
+Bank * * Oboe 2
+
+//! c=legato i=legato o=note:24
+21 legato non-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=long i=note-whole o=note:26
+2 sustain non-vib.
+//! c=long i=note-whole o=note:27
+1 sustain
+//! c=short i=tenuto-eighth o=note:28
+50 tenuto
+//! c=short i=staccato o=note:29
+40 staccato
+
+
+//! g="Cinesamples/CineWinds" n="English Horn"
+//! id=25adea35-526f-3043-8e2b-e76858130b87
+Bank * * English Hron
+
+//! c=legato i=legato o=note:24
+21 legato non-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=long i=note-whole o=note:26
+2 sustain non-vib.
+//! c=long i=note-whole o=note:27
+1 sustain
+//! c=short i=tenuto-eighth o=note:28
+50 tenuto
+//! c=short i=staccato o=note:29
+40 staccato
+//! c=short i=spiccato o=note:30
+41 staccatissimo
+//! c=long i=trill-min2 o=note:31
+70 trill m2
+//! c=long i=trill-maj2 o=note:32
+71 trill M2
+
+
+//! g="Cinesamples/CineWinds" n="Eb Clarinet"
+//! id=f2c457ec-6727-6345-a5fc-c17b4b8ca7a7
+Bank * * Eb Clarinet
+
+//! c=legato i=legato o=note:24
+21 legato non-vib.
+//! c=long i=note-whole o=note:25
+2 sustain non-vib.
+//! c=long i=note-whole o=note:26
+1 sustain
+//! c=short i=tenuto-eighth o=note:27
+50 tenuto
+//! c=short i=staccato o=note:28
+40 staccato
+//! c=short i=spiccato o=note:29
+41 staccatissimo
+//! c=long i=trill-min2 o=note:30
+70 trill m2
+//! c=long i=trill-maj2 o=note:31
+71 trill M2
+
+//! g="Cinesamples/CineWinds" n="Bb Clarinet"
+//! id=8f6c470c-582c-8a4c-ad5b-569a83c38272
+Bank * * Bb Clarinet
+
+//! c=legato i=legato o=note:24
+21 legato non-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=long i=note-whole o=note:26
+2 sustain non-vib.
+//! c=long i=note-whole o=note:27
+1 sustain
+//! c=short i=tenuto-eighth o=note:28
+50 tenuto
+//! c=short i=staccato o=note:29
+40 staccato
+//! c=short i=spiccato o=note:30
+41 staccatissimo
+//! c=long i=trill-min2 o=note:31
+70 trill m2
+//! c=long i=trill-maj2 o=note:32
+71 trill M2
+
+
+//! g="Cinesamples/CineWinds" n="Bass Clarinet"
+//! id=0c2f9f6a-6932-294d-a04f-c5945915e7fa
+Bank * * Bass Clarinet
+
+//! c=legato i=legato o=note:84
+21 legato non-vib.
+//! c=long i=note-whole o=note:85
+2 sustain non-vib.
+//! c=long i=note-whole o=note:86
+1 sustain
+//! c=short i=tenuto-eighth o=note:87
+50 tenuto
+//! c=short i=staccato o=note:88
+40 staccato
+//! c=short i=spiccato o=note:89
+41 staccatissimo
+//! c=long i=trill-min2 o=note:90
+70 trill m2
+//! c=long i=trill-maj2 o=note:91
+71 trill M2
+
+
+//! g="Cinesamples/CineWinds" n="Bassoon"
+//! id=3b2cda5b-f08c-574e-b36f-6dc5c281c235
+Bank * * Bassoon
+
+//! c=legato i=legato o=note:84
+21 legato non-vib.
+//! c=legato i=legato o=note:85
+20 legato
+//! c=long i=note-whole o=note:86
+2 sustain non-vib.
+//! c=long i=note-whole o=note:87
+1 sustain
+//! c=short i=tenuto-eighth o=note:88
+50 tenuto
+//! c=short i=staccato o=note:89
+40 staccato
+//! c=short i=spiccato o=note:90
+41 staccatissimo
+//! c=long i=trill-min2 o=note:91
+70 trill m2
+//! c=long i=trill-maj2 o=note:92
+71 trill M2
+
+//! g="Cinesamples/CineWinds" n="Contrabassoon"
+//! id=b6382dbb-565b-b241-9340-fd940f60ff6f
+Bank * * Contrabassoon
+
+//! c=legato i=legato o=note:72
+21 legato non-vib.
+//! c=long i=note-whole o=note:73
+2 sustain non-vib.
+//! c=long i=note-whole o=note:74
+1 sustain
+//! c=short i=tenuto-eighth o=note:75
+50 tenuto
+//! c=short i=staccato o=note:76
+40 staccato
+//! c=short i=spiccato o=note:77
+41 staccatissimo
+
+
+//! g="Cinesamples/HollyWoodWinds" n="Tutti"
+//! id=8eafe950-227a-e549-bdc7-58ef808c7853
+Bank * * Tutti
+
+//! c=long i=note-whole o=note:96
+1 sustain
+//! c=short i=tenuto-eighth o=note:97
+50 tenuto
+//! c=short i=staccato o=note:98
+40 staccato
+//! c=short i=crescendo o=note:99
+90 crescendo
+//! c=long i=trill o=note:100
+70 trill
+
+//! g="Cinesamples/HollyWoodWinds" n="Octaves"
+//! id=5436b50f-8d34-4d45-b7ba-9a22d251f956
+Bank * * Octaves
+
+//! c=long i=note-whole o=note:24
+1 sustain
+//! c=short i=tenuto-eighth o=note:25
+50 tenuto
+//! c=short i=staccato o=note:26
+40 staccato
+
+//! g="Cinesamples/HollyWoodWinds" n="Scales"
+//! id=c7446a77-3e9d-be4b-a12c-d0c0f2be1924
+Bank * * Scales
+
+//! c=long i=fx o=note:96
+90 major
+//! c=long i=fx o=note:97
+91 natural minor
+//! c=long i=fx o=note:98
+92 harmonic minor
+//! c=long i=fx o=note:99
+93 chromatic
+//! c=long i=fx o=note:100
+94 whole-tone
+//! c=long i=fx o=note:101
+95 diminished
+
+//! g="Cinesamples/HollyWoodWinds" n="Chords"
+//! id=465571df-bbd0-9f4e-8ed9-259382d3005f
+Bank * * Chords
+
+//! c=long i=note-whole o=note:24
+90 sustain triads
+//! c=short i=tenuto-eighth o=note:25
+91 tenuto triads
+//! c=short i=staccato o=note:26
+92 staccato triads
+//! c=short i=fx o=note:27
+93 sustain P5
+//! c=short i=fx o=note:28
+94 trill triads
+
+//! g="Cinesamples/HollyWoodWinds" n="FX"
+//! id=c880d656-d133-3143-b421-aa479c648834
+Bank * * FX
+
+//! c=long i=fx o=note:24
+90 clusters and flutters
+//! c=long i=fx o=note:25
+91 pitch bends
+//! c=long i=fx o=note:26
+92 aleatoric staccato
+//! c=short i=rip o=note:27
+93 atonal rips
+//! c=short i=rip o=note:28
+94 tonal rips
+
+//! g="Cinesamples/CineStrings" n="Runs"
+//! id=39b985b7-6035-1d4d-b6b7-79f8bf9f05c0
+Bank * * Runs
+
+//! c=long i=legato runs o=note:96
+90 major
+//! c=long i=legato runs o=note:97
+91 minor
+//! c=long i=legato runs o=note:98
+92 harmonic minor
+//! c=long i=legato runs o=note:99
+93 whole-tone
+//! c=long i=legato runs o=note:100
+94 chromatic
+//! c=long i=legato runs o=note:101
+95 diminished
+//! c=short i=rip o=note:102
+96 tonal rip
+//! c=short i=rip o=note:103
+97 atonal rip
+//! c=long i=trill o=note:104
+98 trill triad
+
+
+//! g="OrchestralTools/JXLBrass" n="Trumpet Solo"
+//! id=9b823a5a-17cd-524f-a2c1-ed6529b3d226
+Bank * * Trumpet Solo
+
+//! c=legato i=legato o=note:24
+20 legato
+//! c=long i=note-whole o=note:25
+1 sustain
+//! c=long i=note-whole o=note:26
+2 sustain soft
+//! c=long i=sfz o=note:27
+54 sfz. long
+//! c=long i=accented-whole o=note:28
+52 marcato long
+//! c=short i=accented-whole o=note:29
+53 marcato short
+//! c=short i=staccato o=note:30
+40 staccato
+//! c=short i=spiccato o=note:31
+41 Stacatissimo
+
+
+//! g="OrchestralTools/JXLBrass" n"Horn Solo"
+//! id=e8031f30-e72a-bc49-bda8-66a9bd28f449
+Bank * * Horn Solo
+
+//! c=legato i=legato o=note:96
+20 legato
+//! c=long i=note-whole o=note:97
+1 sustain
+//! c=long i=note-whole o=note:98
+2 sustain soft
+//! c=long i=sfz o=note:99
+54 sfz. long
+//! c=long i=accented-whole o=note:100
+52 marcato long
+//! c=short i=accented-whole o=note:101
+53 marcato short
+//! c=short i=staccato o=note:102
+40 staccato
+//! c=short i=spiccato o=note:103
+41 Stacatissimo
+//! c=short i=rip o=note:104
+100 Rip
+
+
+//! g="OrchestralTools/JXLBrass" n"Horns a12"
+//! id=e059925a-7833-ff46-8a16-c0a577dbd69b
+Bank * * Horn a12
+
+//! c=legato i=legato o=note:96
+20 legato
+//! c=long i=note-whole o=note:97
+1 sustain
+//! c=long i=note-whole o=note:98
+2 sustain soft
+//! c=long i=sfz o=note:99
+54 sfz. long
+//! c=long i=accented-whole o=note:100
+52 marcato long
+//! c=short i=accented-whole o=note:101
+53 marcato short
+//! c=short i=staccato o=note:102
+40 staccato
+//! c=short i=spiccato o=note:103
+41 Stacatissimo
+//! c=short i=rip o=note:104
+100 Rip
+
+
+//! g="OrchestralTools/JXLBrass" n="Trombone Solo"
+//! id=36bc181a-ed49-174a-9f70-f3b2909af16f
+Bank * * Trombone Solo
+
+//! c=legato i=legato o=note:24
+20 legato
+//! c=long i=note-whole o=note:25
+1 sustain
+//! c=long i=note-whole o=note:26
+2 sustain soft
+//! c=long i=sfz o=note:27
+54 sfz. long
+//! c=long i=accented-whole o=note:28
+52 marcato long
+//! c=short i=accented-whole o=note:29
+53 marcato short
+//! c=short i=staccato o=note:30
+40 staccato
+//! c=short i=spiccato o=note:31
+41 Stacatissimo
+
+
+//! g="OrchestralTools/JXLBrass" n="Trumpets a6"
+//! id=abdd1645-5046-8140-927a-a9d69c2b83be
+Bank * * Trumpets a6
+
+//! c=legato i=legato o=note:24
+20 legato
+//! c=long i=note-whole o=note:25
+1 sustain
+//! c=long i=note-whole o=note:26
+2 sustain soft
+//! c=long i=sfz o=note:27
+54 sfz. long
+//! c=long i=accented-whole o=note:28
+52 marcato long
+//! c=short i=accented-whole o=note:29
+53 marcato short
+//! c=short i=staccato o=note:30
+40 staccato
+//! c=short i=spiccato o=note:31
+41 Stacatissimo
+
+
+//! g="OrchestralTools/JXLBrass" n="Trombones a12"
+//! id=180ad807-c654-a44c-8148-88d3ec71ac06
+Bank * * Trombones a12
+
+//! c=legato i=legato o=note:24
+20 legato
+//! c=long i=note-whole o=note:25
+1 sustain
+//! c=long i=note-whole o=note:26
+2 sustain soft
+//! c=long i=sfz o=note:27
+54 sfz. long
+//! c=long i=accented-whole o=note:28
+52 marcato long
+//! c=short i=accented-whole o=note:29
+53 marcato short
+//! c=short i=staccato o=note:30
+40 staccato
+//! c=short i=spiccato o=note:31
+41 Stacatissimo
+
+
+//! g="OrchestralTools/JXLBrass" n="Bass Trombones a3"
+//! id=7f0394ff-0d04-2b45-8c56-5eb033a1a4e9
+Bank * * Bass Trombones a3
+
+//! c=legato i=legato o=note:96
+20 legato
+//! c=long i=note-whole o=note:97
+1 sustain
+//! c=long i=note-whole o=note:98
+2 sustain soft
+//! c=long i=sfz o=note:99
+54 sfz. long
+//! c=long i=accented-whole o=note:100
+52 marcato long
+//! c=short i=accented-whole o=note:101
+53 marcato short
+//! c=short i=staccato o=note:102
+40 staccato
+//! c=short i=spiccato o=note:103
+41 Stacatissimo
+//! c=short i=rip o=note:104
+100 Rip
+
+
+
+//! g="OrchestralTools/JXLBrass" n="Tuba"
+//! id=2ffee91a-c27f-3b4d-95f5-b74e52b19c70
+Bank * * Tuba
+
+//! c=legato i=legato o=note:96
+20 legato
+//! c=long i=note-whole o=note:97
+1 sustain
+//! c=long i=note-whole o=note:98
+2 sustain soft
+//! c=long i=sfz o=note:99
+54 sfz. long
+//! c=long i=accented-whole o=note:100
+52 marcato long
+//! c=short i=accented-whole o=note:101
+53 marcato short
+//! c=short i=staccato o=note:102
+40 staccato
+//! c=short i=spiccato o=note:103
+41 Stacatissimo
+//! c=short i=rip o=note:104
+100 Rip
+
+
+//! g="Cinesamples/Voxos" n="Women"
+//! id=c427635e-c5cc-ef4b-a418-47744d35e584
+Bank * * Women
+
+//! c=long i=note-whole o=note:24
+1 Ah
+//! c=long i=note-whole o=note:25
+2 Oh
+//! c=long i=note-whole o=note:26
+3 Oo
+//! c=long i=note-whole o=note:27
+4 Ee
+//! c=long i=note-whole o=note:28
+5 Eh
+//! c=long i=note-whole o=note:29
+6 Long Bum
+//! c=short i=note-quarter o=note:30
+7 Short Bum
+
+
+//! g="Cinesamples/Voxos" n="Men"
+//! id=a8e78f1e-91dc-a64c-b08f-4c2b968c0b1f
+Bank * * Men
+
+//! c=long i=note-whole o=note:24
+1 Ah
+//! c=long i=note-whole o=note:25
+2 Oh
+//! c=long i=note-whole o=note:26
+3 Oo
+//! c=long i=note-whole o=note:27
+4 Ee
+//! c=long i=note-whole o=note:28
+5 Eh
+
+
+//! g="Cinesamples/Voxos" n="Boys"
+//! id=a783564f-7851-0c49-9e81-706c47178232
+Bank * * Boy
+
+//! c=long i=legato o=note:24
+1 Ah
+//! c=long i=legato o=note:25
+2 Oh
+
+
+//! g="Cinesamples/Voxos" n="Choir"
+//! id=1522348f-6292-fe4c-8f89-9f2b566fd2a4
+Bank * * Choir
+
+//! c=long i=fx o=note:96
+1 Triads Ah
+//! c=long i=note-whole o=note:97
+2 Octaves Ah
+//! c=long i=fx o=note:98
+3 Triads Oo
+//! c=long i=note-whole o=note:99
+4 Octaves Oo
+//! c=long i=fx o=note:100
+5 Triads Mm
+
+
+//! g="Cinesamples/Cinestrings" n="Violins 1"
+//! id=89b7dfe8-965a-c342-b770-29480c0d9fae
+Bank * * Violins 1
+
+//! c=legato i=legato o=note:24
+21 legato molto-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=legato i=legato o=note:26
+22 legato non-vib.
+//! c=long i=note-whole o=note:27
+3 long molto-vib.
+//! c=long i=note-whole o=note:28
+1 long
+//! c=long i=note-whole o=note:29
+2 long non-vib.
+
+//! c=short i=spiccato o=note:30
+42 spiccato
+//! c=short i=staccato o=note:31
+40 staccato
+//! c=short i=accented-quarter o=note:32
+52 marcato
+//! c=long i=accented-quarter o=note:33
+9 sfz.
+//! c=short-light i=pizz o=note:34
+56 pizzicato
+//! c=long i=tremolo o=note:35
+11 trem.
+
+
+//! g="Cinesamples/Cinestrings" n="Violins 2"
+//! id=b60fe543-c5eb-5945-8bd4-584de1fc5588
+Bank * * Violins 2
+
+//! c=legato i=legato o=note:24
+21 legato molto-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=legato i=legato o=note:26
+22 legato non-vib.
+//! c=long i=note-whole o=note:27
+3 long molto-vib.
+//! c=long i=note-whole o=note:28
+1 long
+//! c=long i=note-whole o=note:29
+2 long non-vib.
+
+//! c=short i=spiccato o=note:30
+42 spiccato
+//! c=short i=staccato o=note:31
+40 staccato
+//! c=short i=accented-quarter o=note:32
+52 marcato
+//! c=long i=accented-quarter o=note:33
+9 sfz.
+//! c=short-light i=pizz o=note:34
+56 pizzicato
+//! c=long i=tremolo o=note:35
+11 trem.
+
+
+//! g="Cinesamples/Cinestrings" n="Violas"
+//! id=c3634c1b-fa90-ac4c-889c-c92fd7c6bb5f
+Bank * * Violas
+
+//! c=legato i=legato o=note:24
+21 legato molto-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=legato i=legato o=note:26
+22 legato non-vib.
+//! c=long i=note-whole o=note:27
+3 long molto-vib.
+//! c=long i=note-whole o=note:28
+1 long
+//! c=long i=note-whole o=note:29
+2 long non-vib.
+
+//! c=short i=spiccato o=note:30
+42 spiccato
+//! c=short i=staccato o=note:31
+40 staccato
+//! c=short i=accented-quarter o=note:32
+52 marcato
+//! c=long i=accented-quarter o=note:33
+9 sfz.
+//! c=short-light i=pizz o=note:34
+56 pizzicato
+//! c=long i=tremolo o=note:35
+11 trem.
+
+
+//! g="Cinesamples/Cinestrings" n="Cellos"
+//! id=98ad205d-a9cb-a14e-8f67-0ad9f712f891
+Bank * * Cellos
+
+//! c=legato i=legato o=note:24
+21 legato molto-vib.
+//! c=legato i=legato o=note:25
+20 legato
+//! c=legato i=legato o=note:26
+22 legato non-vib.
+//! c=long i=note-whole o=note:27
+3 long molto-vib.
+//! c=long i=note-whole o=note:28
+1 long
+//! c=long i=note-whole o=note:29
+2 long non-vib.
+
+//! c=short i=spiccato o=note:30
+42 spiccato
+//! c=short i=staccato o=note:31
+40 staccato
+//! c=short i=accented-quarter o=note:32
+52 marcato
+//! c=long i=accented-quarter o=note:33
+9 sfz.
+//! c=short-light i=pizz o=note:34
+56 pizzicato
+//! c=long i=tremolo o=note:35
+11 trem.
+
+
+//! g="Cinesamples/Cinestrings" n="Basses"
+//! id=27806b67-a08d-6e48-9922-ddfd2f817648
+Bank * * Basses
+
+
+//! c=legato i=legato o=note:84
+20 legato
+//! c=legato i=legato o=note:85
+22 legato non-vib.
+//! c=long i=note-whole o=note:86
+1 long
+//! c=long i=note-whole o=note:87
+2 long non-vib.
+//! c=short i=spiccato o=note:88
+42 spiccato
+//! c=short i=staccato o=note:89
+40 staccato
+//! c=short i=accented-quarter o=note:90
+52 marcato
+//! c=long i=accented-quarter o=note:91
+9 sfz.
+//! c=short-light i=pizz o=note:92
+56 pizzicato
+//! c=short i=col-legno o=note:93
+43 col-legno
+//! c=short-light i=pizz-bartok o=note:94
+57 bartok pizz.
+//! c=long i=tremolo o=note:95
+11 trem.
+
+
